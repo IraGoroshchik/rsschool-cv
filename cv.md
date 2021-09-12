@@ -48,3 +48,11 @@ class WeatherBody {
 
 }
 ```
+## Experience
+
+## Education
+**University:** Belarusian National Technical University, specialty civil engineer \
+**Courses:**
+* Myfreedom 2020 (frontend developer)
+## English
+**A1**
