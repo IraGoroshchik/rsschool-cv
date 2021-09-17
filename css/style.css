@@ -1,0 +1,102 @@
+.container {
+  font-family: 'Montserrat', sans-serif;
+  max-width: 1024px;
+
+  margin: 20px auto;
+  box-shadow: 10px 10px 5px #4e522f;
+
+}
+.main{
+  display: flex;
+}
+.avatar {
+  max-width: 200px;
+  border: 5px solid #4e522f;
+  border-radius: 35%;
+}
+.leftPath{
+  background-color: hsla(49, 45%, 81%, 0.897) ;
+  max-width: 350px;
+  padding: 10px;
+  text-align: center;
+}
+.rightPath{
+  padding: 10px ;
+  margin-top: 70px;
+  margin-left: 20px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+.location,
+.email,
+.gitHub {
+  padding: 30px 0;
+}
+.aboutMe {
+  font-size: 16px;
+  font-style: italic;
+}
+.location i,
+.email i,
+.gitHub i{
+  font-size: 32px;
+  color: #4e522f;
+}
+
+.heading{
+    display: flex;
+    flex-direction: row;
+    text-transform: uppercase;
+    padding-top: 30px;
+}
+
+h2 {
+    margin: 0 15px ;
+    font-size: 20px;
+
+}
+
+.heading i{
+  font-size: 24px;
+  color: #4e522f;
+  padding-left: 15px;
+}
+
+.line{
+  border-top:2px  solid #4e522f ;
+}
+
+.hardSoft{
+  display: flex;
+  justify-content: space-around;
+}
+
+.hardSoft h3 {
+  margin-top: 0;
+}
+
+footer{
+  display: flex;
+  justify-content: space-around;
+  background-color: #858b52;
+}
+
+footer img{
+  width: 100px;
+  height: 50px;
+}
+
+.gitFooter{
+  display: flex;
+}
+.gitFooter i{
+  font-size: 20px;
+  margin: 14px 0;
+}
